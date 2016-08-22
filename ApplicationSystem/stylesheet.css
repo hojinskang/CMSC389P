@@ -1,0 +1,23 @@
+body, input, option, select{
+  font-size: 16px;
+  font-family: sans-serif;
+}
+div {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  font-size: 50px;
+  line-height: 70px;
+  margin: 0px;
+  text-align: center;
+}
+h2 {
+  font-size: 40px;
+  line-height: 60px;
+  margin: 0px;
+}
+footer {
+  font-size: 12px;
+}
